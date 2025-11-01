@@ -88,11 +88,11 @@ export const experiences = [
         points: ['Leading a team of students to build a wooden satellite', 'Authored two abstracts accepted by international conferences.'],
     },
     {
-        role: 'Co-organiser of Sustainable Cities Hackathon',
+        role: 'Organiser of Sustainable Cities Hackathon',
         org: 'NAIS Dublin',
         time: '2025 - 2025',
         image: '/images/winner1.webp',
-        points: ['Co-organised and led a Sustainable Cities Hackathon with over 40 project submissions aimed at improving urban sustainability.', 'Coordinated the voting process and selected six top presentations across two age groups.'],
+        points: ['Organised and led a Sustainable Cities Hackathon with over 40 project submissions aimed at improving urban sustainability.', 'Coordinated the voting process and selected six top presentations across two age groups.'],
     },
     {
         role: 'Student Council',
