@@ -1,7 +1,7 @@
 export const recentImages = [
     {
       src: '/recent-imgs/nasa.jpg',
-      title: "At NASA's Kennedy Space Center",
+      title: "October 26th 2025 - At NASA's Kennedy Space Center",
       caption: 'Attended the 2-day SmallSat Education Conference 2025 at Kennedy Space Center and saw the Falcon 9 rocket carrying Starlink!',
     },
     {
@@ -26,8 +26,8 @@ export const recentImages = [
     },
     {
       src: '/recent-imgs/wolfpack+charles.jpg',
-      title: 'Wolfpack Team with Charles Bolden',
-      caption: 'The Wolfpack CubeSat Development Team with former NASA Administrator Charles Bolden at the SmallSat Conference 2025.',
+      title: 'October 25th 2025 - Wolfpack Team with Charles Bolden',
+      caption: 'The Wolfpack CubeSat Development Team with former NASA Administrator General Charles Bolden at the SmallSat Conference 2025.',
     },
 ]
 
@@ -88,11 +88,11 @@ export const experiences = [
         points: ['Leading a team of students to build a wooden satellite', 'Authored two abstracts accepted by international conferences.'],
     },
     {
-        role: 'Organiser of Sustainable Cities Hackathon',
+        role: 'Founder & Organiser of Sustainable Cities Hackathon',
         org: 'NAIS Dublin',
         time: '2025 - 2025',
         image: '/images/winner1.webp',
-        points: ['Organised and led a Sustainable Cities Hackathon with over 40 project submissions aimed at improving urban sustainability.', 'Coordinated the voting process and selected six top presentations across two age groups.'],
+        points: ['Founded and organised a Sustainable Cities Hackathon with over 40 project submissions aimed at improving urban sustainability.', 'Coordinated the voting process and selected six top presentations across two age groups.'],
     },
     {
         role: 'Student Council',
