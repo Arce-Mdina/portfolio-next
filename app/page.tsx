@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 import { skills, projects, experiences, achievements, publications, certifications, education, recentImages } from '@/lib/data';
 
 export default function Home() {
-  const [copied, setCopied] = useState(false);
+  // const [copied, setCopied] = useState(false);
 
   const [activeProject, setActiveProject] = useState<null | (typeof projects)[number]>(null);
   const [isProjectOpen, setIsProjectOpen] = useState(false);
@@ -29,15 +29,15 @@ export default function Home() {
     return () => window.removeEventListener('keydown', onKey);
   }, [isProjectOpen]);
 
-  const handleCopy = async () => {
-    try {
-      await navigator.clipboard.writeText('willredhill2519@gmail.com');
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
-    } catch (err) {
-      console.error('Failed to copy:', err);
-    }
-  };
+  // const handleCopy = async () => {
+  //   try {
+  //     await navigator.clipboard.writeText('willredhill2519@gmail.com');
+  //     setCopied(true);
+  //     setTimeout(() => setCopied(false), 2000);
+  //   } catch (err) {
+  //     console.error('Failed to copy:', err);
+  //   }
+  // };
 
   // Light ↔ Dark scheme (modern, minimal, futuristic)
   // Light: airy slate/indigo on off‑white gradient
@@ -74,7 +74,7 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-20 sm:py-28 grid md:grid-cols-2 gap-10 items-center">
           <div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight">
-              Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-purple-600 dark:from-[#818cf8] dark:to-[#a78bfa]">William</span>
+              Hi, I am <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-purple-600 dark:from-[#818cf8] dark:to-[#a78bfa]">William</span>
             </h1>
             <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
               10th Grade student in NAIS Dublin and member of the Irish Chess Union with a passion for software development, aerospace engineering, and technology.
