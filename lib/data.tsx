@@ -11,13 +11,13 @@ export const recentImages = [
     },
     {
       src: '/recent-imgs/booth.jpg',
-      title: 'Wolfpack CubeSat Booth',
-      caption: "My brother and I talking to the conference sponsor, Boss Laser, about the Wolfpack CubeSat Development Team's projects at our booth.",
+      title: 'CubeSat Booth',
+      caption: "My brother and I talking to the conference sponsor, Boss Laser, about CubeSat projects at our booth.",
     },
     {
       src: '/recent-imgs/group.jpg',
-      title: 'Wolfpack CubeSat Development Team',
-      caption: 'The Wolfpack CubeSat Development Team at the SmallSat Conference 2025 plus a CubeSat team from California',
+      title: '4th Annual SmallSat Education Conference 2025',
+      caption: 'A group photo of attendees at the 4th Annual SmallSat Education Conference 2025.',
     },
     {
       src: '/recent-imgs/presenting.jpg',
@@ -26,8 +26,8 @@ export const recentImages = [
     },
     {
       src: '/recent-imgs/wolfpack+charles.jpg',
-      title: 'October 25th 2025 - Wolfpack Team with Charles Bolden',
-      caption: 'The Wolfpack CubeSat Development Team with former NASA Administrator General Charles Bolden at the SmallSat Conference 2025.',
+      title: 'October 25th 2025 - Photo with Charles Bolden',
+      caption: 'A group photo with former NASA Administrator General Charles Bolden at the SmallSat Conference 2025.',
     },
 ]
 
@@ -69,7 +69,7 @@ export const projects = [
     },
     {
         title: 'Sustainable Cities Hackathon',
-        desc: 'Co-organised & co-led a hackathon to promote sustainable urban development among students. 2 days, 40+ submissions.',
+        desc: 'Founded & organised a hackathon to promote sustainable urban development among students. 2 days, 40+ submissions.',
         longDesc: '',
         date: '',
         stack: '',
