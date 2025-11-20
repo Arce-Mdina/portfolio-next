@@ -11,8 +11,8 @@ export const recentImages = [
     },
     {
       src: '/recent-imgs/booth.jpg',
-      title: 'CubeSat Booth',
-      caption: "My brother and I talking to the conference sponsor, Boss Laser, about CubeSat projects at our booth.",
+      title: 'Wolfpack Booth',
+      caption: "My brother and I at the Wolfpack CubeSat booth talking to conference attendees about our CubeSat projects.",
     },
     {
       src: '/recent-imgs/group.jpg',
