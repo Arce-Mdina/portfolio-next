@@ -95,6 +95,27 @@ export const experiences = [
         points: ['Founded and organised a Sustainable Cities Hackathon with over 40 project submissions aimed at improving urban sustainability.', 'Coordinated the voting process and selected six top presentations across two age groups.'],
     },
     {
+        role: 'Irish Chess Union Player',
+        org: 'Irish Chess Union',
+        time: '2024 - 2024',
+        image: '/experience-imgs/chess.jpeg',
+        points: ['Participated in Annual Irish Chess Tournament Dun Laoghaire 2024'],
+    },
+    {
+        role: 'RTE Radio Interviewee',
+        org: 'Irish Chess Union',
+        time: '2024 - 2024',
+        image: '/experience-imgs/rte.jpeg',
+        points: ['Interviewed by RTE Radio during the tournament.'],
+    },
+    {
+        role: 'Presenter of the Pupil Portal',
+        org: 'Dover Court International School Singapore',
+        time: '2024 - 2024',
+        image: '/experience-imgs/parent-workshop.jpeg',
+        points: ['Explained to parents about the Pupil Portal at the Parent Workshop For Digital Citizenship', 'Got a Praise Card from the Senior Secondary Leadership Team.'],
+    },
+    {
         role: 'Student Council',
         org: 'NAIS Dublin & DCIS Singapore',
         time: '2022 - Now',
@@ -148,6 +169,12 @@ export const achievements = [
         year: '2024', 
         note: 'Created a website (william.dcis.space/languages-week) reflecting on the historical impacts on the French language',
         image: '/images/William year9 language week research.jpg',
+    },
+    { 
+        name: 'Annual Chess Tournament', 
+        year: '2024 & 2025', 
+        note: 'Won 2nd place in the tournament among the entire school twice in 2024 and 2025.',
+        image: '/achievements/Chess Photo.jpeg',
     },
     { 
         name: 'Integrity Award', 
